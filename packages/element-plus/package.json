@@ -61,6 +61,7 @@
     "@types/lodash-es": "^4.17.6",
     "@vueuse/core": "^9.1.0",
     "async-validator": "^4.2.5",
+    "core-js": "^3.25.0",
     "dayjs": "^1.11.3",
     "escape-html": "^1.0.3",
     "lodash": "^4.17.21",
